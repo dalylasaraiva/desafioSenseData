@@ -8,6 +8,7 @@ Antes de começar, garanta que os seguintes sistemas estejam instalados em seu c
 
 - [Node.js](https://nodejs.org/en/)
 - npm (é necessário porém é instalado junto com o Node)
+- IDE de sua preferência
 
 ## Instalação do [Cypress](https://cypress.io)
 
