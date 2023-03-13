@@ -7,7 +7,8 @@ O desafio proposto solicitou criar um mini-projeto de automação para fazer a c
 Antes de começar, garanta que os seguintes sistemas estejam instalados em seu computador.
 
 - [Node.js](https://nodejs.org/en/)
-- npm (é necessário porém é instalado junto com o Node)
+- npm (é necessário porém é instalado junto com o Node na versão para Windows)
+- Git
 - IDE de sua preferência
 
 ## Instalação do [Cypress](https://cypress.io)
