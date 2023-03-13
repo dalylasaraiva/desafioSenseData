@@ -13,7 +13,8 @@ Antes de começar, garanta que os seguintes sistemas estejam instalados em seu c
 
 ## Instalação do [Cypress](https://cypress.io)
 
-1. Na raiz da sua pasta local, execute o comando `npm install cypress@9.5.1 --save-dev` (o projeto foi feito nesta versão)
+1. Crie uma pasta para instalar o cypress
+2. Na raiz da sua pasta, usando o terminal do Visual Studio Code execute o comando `npm install cypress@9.5.1 --save-dev` (o projeto foi feito nesta versão)
 
 ## Como executar o teste:
 1. Clone o projeto "git clone https://github.com/dalylasaraiva/desafioSenseData.git"
