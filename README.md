@@ -9,7 +9,7 @@ Antes de começar, garanta que os seguintes sistemas estejam instalados em seu c
 - [Node.js](https://nodejs.org/en/)
 - npm (é necessário porém é instalado junto com o Node na versão para Windows)
 - Git
-- IDE de sua preferência
+- Visual Studio Code
 
 ## Instalação do [Cypress](https://cypress.io)
 
